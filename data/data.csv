@@ -1,11 +1,10 @@
 type,titre,lieu,ville,debut,fin,description,techno
-experience,Data Scientist,"AUDRNA AGENCE D’URBANISME NÎMES-ALES,",Nîmes,02-2020,06-2020,Valorisations des données par de la Data viz. Scrapping. Mise en place et manipulation de base de données Socio-économique. ,SIG / Python / Javascript / QGIS / Leaflet
-experience,Data Scientist,CONSEIL DÉPARTEMENTAL HÉRAULT,Montpellier,10-2018,09-2019,Valorisations des données de la mission développement durable. Et développement d’outils d’aide à la décision par le biais de la DataVisualisation.,Javascript / D3js / Linux / NodeJs 
-experience,Data Manager,COMUE LR-UNIVERSITÉS,Montpellier,02-2018,06-2018,Développement d’un tableau de bord pour la présidence et adapter à chacun des pôles de la COMUE .,R / Rshiny / Linux
-university,Data Analyst,PROJET UNIVERSITAIRE,Montpellier,10-2017,10-2018,"Outils d’analyse du flux de sève. Conception, gestion,développement et déploiement du projet .",Python / R / Javascript
-university,Developpeur Web,PROJET UNIVERSITAIRE,Montpellier,05-2017,06-2017,Conception d’un outil de gestion des parkings. Conception / mise en place et manipulation de base de donnée. ,PHP / WAMP / HTML / CSS
-university,MachineLearning,PROJET UNIVERSITAIRE,Montpellier,05-2019,06-2019,Challenge « Kaggle ». Reconnaissance d'image de nageoire de baleine.,Tensorflow / Python / AWS
-study,Master 2 MIASHS,UNIVERSITÉ PAUL VALERY ,Montpellier,10-2017,10-2019,Mathématiques et Informatique appliquées aux sciences Humaines et Sociales. Ce master est orienté DataScience et Machine Learning ,DataScience / IA / MachineLearning
-study,Licence MIASHS ,UNIVERSITÉ PAUL VALERY ,Montpellier,10-2014,10-2017,Mathématiques et Informatique appliquées en Economie des Administrations. Analyse statistique option Economie et de gestion.,Mathematiques / Statistique / Economie
-study,Bac E.S.,CIMF & LYCÉE DESCARTES,Montréal,08-2014,10-2014,Bac Économique et sociale passé dans un lycée français au Maroc et scolarité à Montreal-Canada .,
-other,Micro-entreprise,AUTO-ENTREPRISE,Partout,12-2019,06-2020,,Web-design/ Logo / Machine Learning 
+Experience,Data Scientist,"AUDRNA AGENCE D’URBANISME NÎMES-ALES,",Nîmes,02-2020,06-2020,Valorisations des données par de la Data viz. Scrapping. Mise en place et manipulation de base de données Socio-économique. ,SIG / Python / Javascript / QGIS / Leaflet
+Experience,Data Scientist,CONSEIL DÉPARTEMENTAL HÉRAULT,Montpellier,10-2018,11-2019,Valorisations des données de la mission développement durable. Et développement d’outils d’aide à la décision par le biais de la DataVisualisation.,Javascript / D3js / Linux / NodeJs 
+Experience,Data Manager,COMUE LR-UNIVERSITÉS,Montpellier,02-2018,06-2018,Développement d’un tableau de bord pour la présidence et adapter à chacun des pôles de la COMUE .,R / Rshiny / Linux
+Projet,Data Analyst,PROJET UNIVERSITAIRE,Montpellier,10-2017,10-2018,"Outils d’analyse du flux de sève. Conception, gestion,développement et déploiement du projet .",Python / R / Javascript
+Projet,Developpeur Web,PROJET UNIVERSITAIRE,Montpellier,05-2017,06-2017,Conception d’un outil de gestion des parkings. Conception / mise en place et manipulation de base de donnée. ,PHP / WAMP / HTML / CSS
+Projet,MachineLearning,PROJET UNIVERSITAIRE,Montpellier,05-2019,06-2019,Challenge « Kaggle ». Reconnaissance d'image de nageoire de baleine.,Tensorflow / Python / AWS
+Formation,Master 2 MIASHS,UNIVERSITÉ PAUL VALERY ,Montpellier,10-2017,10-2019,Mathématiques et Informatique appliquées aux sciences Humaines et Sociales. Ce master est orienté DataScience et Machine Learning ,DataScience / IA / MachineLearning
+Formation,Licence MIASHS ,UNIVERSITÉ PAUL VALERY ,Montpellier,10-2016,10-2017,Mathématiques et Informatique appliquées en Economie des Administrations. Analyse statistique option Economie et de gestion.,Mathematiques / Statistique / Economie
+Autre,Micro-entreprise,AUTO-ENTREPRISE,Partout,12-2019,06-2020,,Web-design/ Logo / Machine Learning 

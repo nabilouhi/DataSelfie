@@ -79,3 +79,67 @@ text-decoration: none;
 tbody tr td i{
 font-size: 12px;
 }
+
+#containersvg{
+  margin: 0 auto;
+  position: relative;
+  overflow: visible;
+}
+
+
+.svg {
+    height:500px;
+    overflow: visible;
+    position:absolute;
+}
+
+.grid .tick {
+    stroke: lightgrey;
+    opacity: 0.3;
+    shape-rendering: crispEdges;
+}
+.grid path {
+      stroke-width: 0;
+}
+#DescriptionT{
+margin-top: 285px;
+font-size: 16px;
+padding-left: 10px;
+}
+#Description{
+border:4px darkgrey solid;
+height: 120px;
+padding:10px;
+padding-top: 20px;
+
+border-radius:10px;
+}
+
+#tag {
+  color: black;
+  background: white;
+  width: 200px;
+  position: absolute;
+  display: none;
+  padding:3px 6px;
+  margin-left: -80px;
+  font-size: 15px;
+}
+
+
+#tag:before {
+  border: solid transparent;
+  content: ' ';
+  height: 0;
+  left: 50%;
+  margin-left: -5px;
+  position: absolute;
+  width: 0;
+  border-width: 10px;
+  border-bottom-color: white;
+  top: -20px;
+}
+.periode rect:hover{
+	stroke:black;
+}
+

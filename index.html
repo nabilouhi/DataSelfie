@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
   <title>Ouhi Nabil </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.3.3/d3.min.js"></script>
+  <script type="text/javascript" src="http://static.mentful.com/gantt-chart-d3v2.js"></script>
   <script src="js/typed.js@2.0.11"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="js/parcours.js"></script>
+     
 </head>
 <body style="border-left: dashed 10px lightgrey;">
 
@@ -60,15 +66,21 @@
     
   </div>
 </div>
+<br>
+<br>
 
   <div class="container-fluid">
-  <div class="jumbotron">
-  
+  <div class="jumbotron" style="height:550px;" id="d3svg">
     <h2><span>&nbsp;Mon parcours&nbsp; </span></h2>      
-    <div>graphique</div>
-    
+			 <div id = "containersvg">
+				<div class = "svg"></div><div id = "tag"></div>
+			</div>
+			<h4  id = "DescriptionT" >Description</h4>
+			<div id = "Description" class="container-fluid"><p style="color:darkgrey">Cliquez sur une période pour plus d'information </p></div>
   </div>
 </div>
+<br>
+<br>
 
   <div class="container">
   <div class="jumbotron row text-center">
